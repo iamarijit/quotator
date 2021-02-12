@@ -1,0 +1,1 @@
+from quotator import app
